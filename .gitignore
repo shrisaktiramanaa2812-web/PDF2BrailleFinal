@@ -1,0 +1,16 @@
+# Python specific ignored files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE files (e.g., VS Code, PyCharm)
+.idea/
+.vscode/
